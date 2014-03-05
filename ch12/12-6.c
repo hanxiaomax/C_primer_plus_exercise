@@ -10,7 +10,7 @@ int main()
 	for(i=0;i<1000;i++)
 	{
 		num=rand()%10;
-		temp[num]++;
+		temp[num]++;/*用产生的数做索引，并把相应位置的数+1*/
 	}
 	for(num=0;num<10;num++)
 	{
