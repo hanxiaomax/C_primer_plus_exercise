@@ -1,6 +1,6 @@
+/*Programming Exercise12-1*/
 #include <stdio.h>
 int critic(void);
-
 int main()
 {
 	int units=0;

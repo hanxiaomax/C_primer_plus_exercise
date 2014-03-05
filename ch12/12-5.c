@@ -1,3 +1,4 @@
+/*Programming Exercise12-5*/
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 100

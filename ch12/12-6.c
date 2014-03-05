@@ -1,3 +1,4 @@
+/*Programming Exercise12-6*/
 #include <stdio.h>
 #include <stdlib.h>
 int main()
